@@ -1,6 +1,6 @@
 # course_app
 
-A new Flutter project.
+Course app flutter project 
 
 ## Getting Started
 
